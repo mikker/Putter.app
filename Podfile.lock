@@ -1,0 +1,17 @@
+PODS:
+  - AFNetworking (1.3.1)
+  - RegexKitLite (0.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - RegexKitLite (from `https://gist.github.com/mikker/c4b26fa0e9c23da981f7/raw`)
+
+EXTERNAL SOURCES:
+  RegexKitLite:
+    :podspec: https://gist.github.com/mikker/c4b26fa0e9c23da981f7/raw
+
+SPEC CHECKSUMS:
+  AFNetworking: 9ec8aafb9269236a7630bd8d9838ce2ba30fa2a0
+  RegexKitLite: 3e9a581dd399c3d6418e3c5aea99a3dde674f135
+
+COCOAPODS: 0.22.2

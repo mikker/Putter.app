@@ -1,0 +1,2 @@
+static NSString * const kClientID = @"xxx";
+static NSString * const kClientSecret = @"yyy";
