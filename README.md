@@ -12,6 +12,10 @@ Well, this is as crazy as it gets:
 
 You can download a pre-built versions that should work here: [Putter.app][zip].
 
+## Future
+
+It should probably also handle `.torrent`-files?
+
 ## License
 
 Do what you like.
