@@ -6,6 +6,10 @@ I like [put.io][putio]'s service, but I hate copy-pasting magnet urls to and fro
 
 Well, this is as crazy as it gets:
 
+## Download
+
+You can download a pre-built versions that should work here: [Putter.app][zip].
+
 ![](https://raw.github.com/mikker/Putter.app/master/Screenshot.png)
 
 ## License
@@ -13,3 +17,4 @@ Well, this is as crazy as it gets:
 Do what you like.
 
 [putio]: http://put.io
+[zip]: https://raw.github.com/mikker/Putter.app/master/Putter.app-1.0.zip
