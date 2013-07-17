@@ -10,7 +10,7 @@ Well, this is as crazy as it gets:
 
 ## Download
 
-You can download a pre-built versions that should work here: [Putter.app][zip].
+Here's a pre-built version that should work: [Putter.app][zip].
 
 ## Future
 
