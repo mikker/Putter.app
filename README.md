@@ -1,3 +1,5 @@
+### NB: You're probably better off using [put.io adder](https://github.com/nicoSWD/put.io-adder) by @nicoSWD.
+
 # Putter.app
 
 I like [put.io][putio]'s service, but I hate copy-pasting magnet urls to and from Safari. So I made this little app, that handles `magnet:`-urls and sends them to your Put.io-account.
